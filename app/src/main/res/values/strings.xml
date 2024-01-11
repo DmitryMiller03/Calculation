@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Calcul_epta</string>
+    <string name="percent">%</string>
+    <string name="firstBracket">(</string>
+</resources>
